@@ -1,0 +1,11 @@
+:root{
+  --sea-1:#09606D;
+  --sea-2:#075057;
+  --sea-3:#D2ECF2;
+  --dark:#07202a;
+  --muted:#587b7c;
+}
+*{box-sizing:border-box}
+html,body,#root{height:100%;margin:0;font-family:Inter,system-ui,Roboto,Arial}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit}
